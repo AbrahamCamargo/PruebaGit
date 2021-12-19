@@ -1,7 +1,0 @@
-{
-  "name": "WorldFitAPK",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
